@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions-0018.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"S:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_FitnessEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"S:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"S:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"S:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"S:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions-0018.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions
