@@ -1,7 +1,7 @@
 {
-	"BuildId": "14830424",
+	"BuildId": "4a77569c-ac63-44d9-8f24-fce24593977b",
 	"Modules": 
 	{
-		"AdvancedSessions": "UE4Editor-AdvancedSessions-0001.dll"
+		"AdvancedSessions": "UE4Editor-AdvancedSessions.dll"
 	}
 }
