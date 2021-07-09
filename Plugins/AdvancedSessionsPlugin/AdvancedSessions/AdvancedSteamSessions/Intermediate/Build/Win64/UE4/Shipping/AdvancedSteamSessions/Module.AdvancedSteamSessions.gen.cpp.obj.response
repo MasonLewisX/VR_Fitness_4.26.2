@@ -30,7 +30,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -126,13 +126,13 @@
 /I Developer\TargetPlatform\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\AnimationCore
 /I Runtime\AnimationCore\Public
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions"
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source
-/I C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions"
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source"
+/I "N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
 /I ThirdParty\Steamworks\Steamv147\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -162,17 +162,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_Fitness\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_Fitness\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_Fitness\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
-/FI"C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+/FI"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_Fitness\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_Fitness\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_Fitness\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
+/FI"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4
