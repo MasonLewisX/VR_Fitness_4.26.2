@@ -29,30 +29,30 @@ void ACharacter_Player::BeginPlay()
 {
 	Super::BeginPlay();
 
-	//UHeadMountedDisplayFunctionLibrary::GetHMDWornState()
+	//UHeadMountedDisplayFunctionLibrary::GetHMDWornState();
+	/*
+	switch (GEngine->XRSystem->GetHMDDevice()->GetHMDWornState())
+	{
+	case EHMDWornState::Worn:
+		//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+		
+		break;
 
-	//switch (GEngine->XRSystem->GetHMDDevice()->GetHMDWornState())
-	//{
-	//case EHMDWornState::Worn:
-	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
-	//	
-	//	break;
+	case EHMDWornState::NotWorn:
+		//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
 
-	//case EHMDWornState::NotWorn:
-	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+		break;
 
-	//	break;
+	case EHMDWornState::Unknown:
+		//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
 
-	//case EHMDWornState::Unknown:
-	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
-
-	//	break;
+		break;
 
 
-	//default:
-	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
-	//	break;
-	//}
+	default:
+		//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+		break;
+	}*/
 		
 }
 
