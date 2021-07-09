@@ -5,6 +5,11 @@
 #include "CoreMinimal.h"
 #include <Engine.h>
 #include "Character_Main.h"
+//#include <IXRTrackingSystem.h>
+//#include <IXRSystemAssets.h>
+//#include <IHeadMountedDisplay.h>
+//#include <XRMotionControllerBase.h>
+//#include <HeadMountedDisplayFunctionLibrary.h>
 #include "Character_Player.generated.h"
 
 /**

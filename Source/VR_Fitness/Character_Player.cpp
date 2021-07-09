@@ -29,6 +29,31 @@ void ACharacter_Player::BeginPlay()
 {
 	Super::BeginPlay();
 
+	//UHeadMountedDisplayFunctionLibrary::GetHMDWornState()
+
+	//switch (GEngine->XRSystem->GetHMDDevice()->GetHMDWornState())
+	//{
+	//case EHMDWornState::Worn:
+	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+	//	
+	//	break;
+
+	//case EHMDWornState::NotWorn:
+	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+
+	//	break;
+
+	//case EHMDWornState::Unknown:
+	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+
+	//	break;
+
+
+	//default:
+	//	//UHeadMountedDisplayFunctionLibrary::SetTrackingOrigin(EHMDTrackingOrigin::Eye);
+	//	break;
+	//}
+		
 }
 
 // Called every frame

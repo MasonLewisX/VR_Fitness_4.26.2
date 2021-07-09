@@ -80,6 +80,8 @@ void ABicycle_Main::BeginPlay()
 
 	this->GetCharacterMovement()->GroundFriction = 0.f;
 	this->GetCharacterMovement()->BrakingFrictionFactor = 0.f;
+
+
 		
 }
 
