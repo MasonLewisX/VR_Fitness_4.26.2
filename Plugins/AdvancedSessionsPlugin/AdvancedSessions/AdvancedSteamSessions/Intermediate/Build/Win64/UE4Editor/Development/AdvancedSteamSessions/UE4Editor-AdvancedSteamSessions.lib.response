@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_FitnessEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
-"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"N:\Documents\Unreal Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
+"C:\Users\Unknown\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Intermediate\Build\Win64\VR_FitnessEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Unknown\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Unknown\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\Unknown\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\Unknown\Dropbox\Documents\Unreal_Projects\VR_Fitness_4.26.2\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
 /INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions
