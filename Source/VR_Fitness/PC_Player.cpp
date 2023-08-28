@@ -14,7 +14,8 @@ APC_Player::APC_Player()
 	eventOpenUSA.AddDynamic(this, &APC_Player::OpenUSA_C);
 	eventOpenAustralia.AddDynamic(this, &APC_Player::OpenAustralia_C);
 	eventOpenIceland.AddDynamic(this, &APC_Player::OpenIceland_C);
-	bEnableMouseOverEvents = true;
+	//bEnableMouseOverEvents = true;
+	bEnableClickEvents = true;
 	m_BicycleSpawnTransform.SetComponents(FQuat(0, 0, 0, 0), FVector(0, 0, 0), FVector(1, 1, 1));
 
 	UDP_Handle_C = CreateDefaultSubobject<UUDPComponent>(TEXT("UDP"));
